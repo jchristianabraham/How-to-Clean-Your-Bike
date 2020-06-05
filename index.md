@@ -8,6 +8,7 @@
 * Old toothbrush
 * Chain degreaser
 * Wet chain lubricant
+![](images/Supplies.jpg)
 
 2\. Fill the bucket with roughly one gallon of water from the hose.<br/>
 3\. Pour in about 20 drops of dish soap.<br/>
