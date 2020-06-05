@@ -51,7 +51,7 @@
 **Cleaning the Chain**<br/>
 10\. Spray the chain degreaser liberally onto the chain and gears, spinning the pedals when necessary. NOTE: There are many kinds of chain degreaser; follow the directions for yours specifically.<br/>
 
-<img align="left" src="smallerimages/DegreaseChain"> <img align="right" src="smallerimages/DegreaseGear">
+| <img src="smallerimages/DegreaseChain.jpg">  |  <img src="smallerimages/DegreaseGear.jpg"> |  
 
 11\. Let the degreaser sit on the components for two to five minutes.<br/>
 12\. Rinse the whole bike off completely with the hose.<br/>
@@ -63,13 +63,13 @@
 13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals. CAUTION: Keep your fingers out of moving components to avoid pinch points.<br/>
 
 <p align="center">
-  <img src="smallerimages/WipeChain.jpg">	
+  <img src="smallerimages/WipeChain.JPG">	
 </p>
 
 14\. Apply one drop of wet lubricant to each link of the chain, spinning the pedals when necessary.<br/>
 
 <p align="center">
-  <img src="smallerimages/LubeChain.jpg">	
+  <img src="smallerimages/LubeChain.JPG">	
 </p>
  
 **Finishing Up**<br/>
