@@ -7,11 +7,18 @@
 * (2x) Microfiber rags(alternative: unwanted t-shirts)
 * Old toothbrush
 * Chain degreaser
-* Wet chain lubricant
-![](smallerimages/Supplies.jpg)
+* Wet chain lubricant<br/>
+
+<p align="center">
+  <img src="smallerimages/Supplies.jpg">	
+</p>
 
 2\. Fill the bucket with roughly one gallon of water from the hose.<br/>
-![](smallerimages/SoapBucket.jpg)
+
+<p align="center">
+  <img src="smallerimages/SoapBucket.jpg">	
+</p>
+
 3\. Pour in about 20 drops of dish soap.<br/>
 4\. Add another half-gallon of water from the hose and mix to form a bubbly mixture.<br/>
 5\. Flip the bike so that the seat and the handlebars are touching the ground as shown in the picture above. This will keep the bike upright and make it easier to clean the drivetrain.<br/>
