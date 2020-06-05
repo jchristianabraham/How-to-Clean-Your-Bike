@@ -1,7 +1,8 @@
 **Set Up**
 1. Gather the necessary materials:
 * A medium-sized bucket/clean, empty trash can
-* Dish soap▪Garden Hose
+* Dish soap
+* Garden Hose
 * Car sponge (alternative: old kitchen sponges)
 * (2x) Microfiber rags(alternative: unwanted t-shirts)
 * Old toothbrush
