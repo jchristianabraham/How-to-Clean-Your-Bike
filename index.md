@@ -1,9 +1,7 @@
-[Supply List](https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share)<br/> 
-[Printable PDF](ENGL%20149%20Instructions%20(draft3).pdf)<br/>
+Here's a quick guide on how to clean your bike.<br/> 
+If you are missing any of the necessary materials, this [supply list](https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share) has links to what I used.<br/> 
+Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case you want to reference the instructions without getting your computer wet.<br/>
 
-### Instructions
-
-Here's a guide on how to quickly clean your bike.
 
 **Set Up**<br/>
 1\. Gather the necessary materials:<br/>
