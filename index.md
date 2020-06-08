@@ -1,6 +1,8 @@
 ### Introduction <br/>
 Here's a guide on how to clean your bike. It includes rinsing, soaping, degreasing, and lubricating the drivetrain. If you ride your bike often, I recommend following these instructions every few weeks, or after an especially muddy ride. Doing so will help to keep your bike running smoothly and help each component to last as long as possible. <br/> 
 <br/> 
+
+If you are not familiar with the parts of a bike referenced in this guide, here is a helpful [article](https://momentummag.com/parts-of-bicycle/).<br/> 
 If you are missing any of the necessary materials, this [supply list](https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share) has links to what I used.<br/> 
 Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case you want to reference the instructions without getting your computer wet.<br/>
 
