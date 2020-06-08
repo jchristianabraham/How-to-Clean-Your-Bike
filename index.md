@@ -1,3 +1,5 @@
+**(Supply List)[https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share] (Printable PDF)[ENGL 149 Instructions (draft3).pdf]**<br/>
+
 **Set Up**<br/>
 1\. Gather the necessary materials:<br/>
 * A medium-sized bucket/clean, empty trash can
