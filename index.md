@@ -1,4 +1,5 @@
-**(Supply List)[https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share] (Printable PDF)[ENGL 149 Instructions (draft3).pdf]**<br/>
+(Supply List)[https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share]<br/>
+(Printable PDF)[ENGL%20149%20Instructions%20(draft3).pdf]<br/>
 
 **Set Up**<br/>
 1\. Gather the necessary materials:<br/>
