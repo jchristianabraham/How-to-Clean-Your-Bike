@@ -1,9 +1,11 @@
-Here's a quick guide on how to clean your bike.<br/> 
+### Introduction <br/>
+Here's a guide on how to clean your bike. It includes rinsing, soaping, degreasing, and lubricating the drivetrain. If you ride your bike often, I recommend following these instructions every few weeks, or after an especially muddy ride. Doing so will help to keep your bike running smoothly and help each component to last as long as possible. <br/> 
+<br/> 
 If you are missing any of the necessary materials, this [supply list](https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share) has links to what I used.<br/> 
 Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case you want to reference the instructions without getting your computer wet.<br/>
 
 
-**Set Up**<br/>
+### Set Up<br/>
 1\. Gather the necessary materials:<br/>
 * A medium-sized bucket/clean, empty trash can
 * Dish soap
@@ -32,7 +34,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/UpsideDown.jpg">	
 </p>
 
-**Washing the Frame and Wheels**<br/>
+### Washing the Frame and Wheels<br/>
 6\. Using the hose, rinse off any large buildups of dirt using a low-pressure hose setting (forexample, showermode instead of jet mode). CAUTION: Do not force water into the marked areas shown in this picture as this can lead to seized bearings. They can be wet, but do not force water inside the frame.<br/>
 
 <p align="center">
@@ -53,7 +55,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
 </p>
 
 
-**Cleaning the Chain**<br/>
+### Cleaning the Chain<br/>
 10\. Spray the chain degreaser liberally onto the chain and gears, spinning the pedals when necessary. NOTE: There are many kinds of chain degreaser; follow the directions for yours specifically.<br/>
 
 | <img src="smallerimages/DegreaseChain.jpg">  |  <img src="smallerimages/DegreaseGear.jpg"> |  
@@ -77,7 +79,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/LubeChain.JPG">	
 </p>
  
-**Finishing Up**<br/>
+### Finishing Up<br/>
 15\. After applying the lubricant, spin the pedals on different gears to work the lubricant into the drivetrain.<br/>
 16\. Wipe off any excess lubricant with the first microfiber cloth.<br/>
 17\. Spin the pedal and shift the back gears up and down to check for smooth shifting. If there is loud creaking, apply more lubricant to the chain.<br/>
