@@ -24,13 +24,13 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
 
 2\. Fill the bucket with roughly one gallon of water from the hose.<br/>
 3\. Pour in about 20 drops of dish soap.<br/>
-4\. Add another half-gallon of water from the hose and mix to form a bubbly mixture.<br/>
+4\. Add another half-gallon of water from the hose and mix to form a bubbly mixture as shown below.<br/>
 
 <p align="center">
   <img src="smallerimages/SoapBucket.jpg">	
 </p>
 
-5\. Flip the bike so that the seat and the handlebars are touching the ground as shown in the picture above. This will keep the bike upright and make it easier to spin the pedals to clean the drivetrain.<br/>
+5\. Flip the bike so that the seat and the handlebars are touching the ground as shown in the picture below. *NOTE:* This will keep the bike upright and make it easier to spin the pedals to clean the drivetrain.<br/>
 
 <p align="center">
   <img src="smallerimages/UpsideDown.jpg">	
@@ -43,7 +43,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/CautionAreas.jpg">	
 </p>
 
-7\. Using your old toothbrush, brush away residue from the cassette and chainring. There maybe a lot of residue, so you can rinse the brush in your bucket of soapy water.<br/>
+7\. Using your old toothbrush, brush away residue from the cassette and chainring. *NOTE:* There maybe a lot of residue, so you can rinse the brush in your bucket of soapy water.<br/>
 
 <p align="center">
   <img src="smallerimages/BackBrush.jpg">	
@@ -69,7 +69,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/SprayDown.jpg">	
 </p>
 
-13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals. *CAUTION:* Keep your fingers out of moving components to avoid pinch points.<br/>
+13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals. <span style="color:yellow">CAUTION:</span> Keep your fingers out of moving components to avoid pinch points.<br/>
 
 <p align="center">
   <img src="smallerimages/WipeChain.JPG">	
@@ -91,7 +91,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/WipeBike.jpg">	
 </p>
 
-19\. Allow the bike to dry off in the sun.<br/>
+19\. Allow the bike to dry off in the sun to ensure that all components are dry.<br/>
 
 <p align="center">
   <img src="smallerimages/SunDry.jpg">	
