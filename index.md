@@ -63,7 +63,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
 | <img src="smallerimages/DegreaseChain.jpg">  |  <img src="smallerimages/DegreaseGear.jpg"> |  
 
 11\. Let the degreaser sit on the components for two to five minutes.<br/>
-12\. Rinse the whole bike off completely with the hose. *NOTE:* Like before, do not force water into the marked areas shown in step 6.<br/> 
+12\. Rinse the whole bike off completely with the hose. *NOTE:* Do not force water into the marked areas shown in step 6.<br/> 
 
 <p align="center">
   <img src="smallerimages/SprayDown.jpg">	
