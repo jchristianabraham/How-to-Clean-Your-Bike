@@ -70,7 +70,8 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
 </p>
 
 13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals.<br/>
- <span style="color:#D6D300   ">**CAUTION:**</span> Keep your fingers and the cloth out of moving components (chainring, cassette, and derailleurs) to avoid pinch points.<br/>
+<br/>
+<span style="color:#D6D300   ">**CAUTION:**</span> Keep your fingers and the cloth out of moving components (chainring, cassette, and derailleurs) to avoid pinch points.<br/>
 
 <p align="center">
   <img src="smallerimages/WipeChain.JPG">	
