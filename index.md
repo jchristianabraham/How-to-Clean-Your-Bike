@@ -69,7 +69,7 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
   <img src="smallerimages/SprayDown.jpg">	
 </p>
 
-13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals. <span style="color:yellow">CAUTION:</span> Keep your fingers out of moving components to avoid pinch points.<br/>
+13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals. <span style="color:#DCDC13 ">CAUTION:</span> Keep your fingers out of moving components to avoid pinch points.<br/>
 
 <p align="center">
   <img src="smallerimages/WipeChain.JPG">	
