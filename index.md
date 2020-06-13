@@ -4,7 +4,7 @@ Here's a guide on how to clean your bike. It includes washing the frame and lubr
 
 If you are not familiar with the parts of a bike referenced in this guide, here is a helpful [article](https://www.liv-cycling.com/global/campaigns/parts-of-the-bike/20452).<br/> 
 If you are missing any of the necessary materials, this [supply list](https://www.amazon.com/hz/wishlist/ls/3VVK6NTBYWZNU?ref_=wl_share) has links to what I used.<br/> 
-Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case you want to reference the instructions without getting your computer wet.<br/>
+Also, here's a printable PDF [with pictures](ENGL%20149%20Instructions%20(draft3).pdf) or [without pictures](ENGL%20149%20Instructions%20(draft3).pdf) in case you want to reference the instructions without getting your computer wet.<br/>
 
 
 ### Set Up<br/>
