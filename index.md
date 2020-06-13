@@ -71,9 +71,12 @@ Also, here's a [printable PDF](ENGL%20149%20Instructions%20(draft3).pdf) in case
 
 13\. Wipe the chain dry with the first microfiber cloth. Hold the cloth on the chain and turn the pedals.<br/>
 <br/>
+
 <span style="color:#D6D300   ">**CAUTION:**</span> Keep your fingers and the cloth out of moving components (chainring, cassette, and derailleurs) to avoid pinch points.<br/>
 
-  <iframe src="https://giphy.com/embed/dUMsV2GdJIGE04s2d3" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dUMsV2GdJIGE04s2d3">via GIPHY</a></p>
+<p align="center">
+  <iframe src="https://giphy.com/embed/dUMsV2GdJIGE04s2d3" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dUMsV2GdJIGE04s2d3"></a></p>
+</p>
 
 14\. Apply one drop of wet lubricant to each link of the chain, spinning the pedals slowly to ensure you get lubricant on each link.<br/>
 
